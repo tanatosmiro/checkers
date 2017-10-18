@@ -1,5 +1,5 @@
 body {
-	background: url(https://st3.depositphotos.com/1098496/13239/v/600/depositphotos_132397434-stock-video-beautiful-background-white-drops-of.jpg);
+	background: grey;
 	background-size: 100%;
 }
 .ba-container {
@@ -54,13 +54,13 @@ body {
 	top: 50%;
 }
 .ba-row:nth-child(6){
-	bottom: 25%;
+	top: 62.5%;
 }
 .ba-row:nth-child(7){
-	bottom: 12.5%;
+	top: 75%;
 }
 .ba-row:last-child{
-	bottom: 0;
+	top: 87.5%;
 }
 .ba-row div:first-child{
 	left: 0;
@@ -78,11 +78,11 @@ body {
 	left: 50%;
 }
 .ba-row div:nth-child(8){
-	right: 0%;
+	left: 62.5%;
 }
 .ba-row div:nth-child(7){
-	right: 12.5%;
+	left: 75%;
 }
 .ba-row div:nth-child(6){
-	right: 25%;
+	left: 87.5%;
 }
